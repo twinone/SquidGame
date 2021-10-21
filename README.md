@@ -31,4 +31,6 @@ Instagram: https://www.instagram.com/squidgames_bsc/
 
 Discord: https://discord.gg/JmBQT24jsR
 
+Reddit: https://www.reddit.com/r/Squid_Game_Community/
+
 Github: https://github.com/bscsquidgame/SquidGame
