@@ -5,8 +5,8 @@ The Squid Game project is a crypto play to earn platform on BSC chain inspired b
 ## Contract Addresses
 | Contract  | Address |
 | ------------- | ------------- |
-| SQUID | [0xD103fa462b090eDbD8183E9A8168508e13B2335E](https://bscscan.com/token/0xD103fa462b090eDbD8183E9A8168508e13B2335E) |
-| SQUID+WBNB Pancake Pair | [0xB2F75cFb9ce4aD7d9FdcBc7b4251eBbad543d5C5](https://bscscan.com/address/0xB2F75cFb9ce4aD7d9FdcBc7b4251eBbad543d5C5)|
+| SQUID | [0x87230146E138d3F296a9a77e497A2A83012e9Bc5](https://bscscan.com/token/0x87230146E138d3F296a9a77e497A2A83012e9Bc5) |
+| SQUID+WBNB Pancake Pair | [0x683c425D917E8fEf34c8bbbeab57246Dd2a8B718](https://bscscan.com/address/0x683c425D917E8fEf34c8bbbeab57246Dd2a8B718)|
 
 
 ## Project links and info
