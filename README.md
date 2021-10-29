@@ -1,3 +1,9 @@
+# WARNING
+
+Don't read below this - everything in this repository except this warning is a scam. I only forked this to have some evidence around that this project existed, as the original will probably soon be pulled from github.
+
+
+
 # SQUID
 
 The Squid Game project is a crypto play to earn platform on BSC chain inspired by the Korean hit series on Netflix about a deadly tournament of children's games. SQUID is the only token can be used in Squid Game. You will need SQUID to participate into a game or get restart after you fail the game.
